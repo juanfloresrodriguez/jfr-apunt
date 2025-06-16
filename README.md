@@ -1,2 +1,2 @@
-# jfr-apunt
+# Apunt
 TFG
